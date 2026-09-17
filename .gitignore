@@ -1,0 +1,4 @@
+*.class
+.vscode/
+data/expenses.txt
+out/
